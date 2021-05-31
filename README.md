@@ -1,4 +1,2 @@
 GetAdventure Documentation
 System Architecture
-
-tsdfddfsdsdfg
